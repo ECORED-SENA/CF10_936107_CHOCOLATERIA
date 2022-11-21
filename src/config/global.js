@@ -1,17 +1,34 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Planificación de la prueba sensorial',
+    descripcionCurso:
+      'Por medio de este componente formativo podrá conocer la importancia de realizar una prueba sensorial en el chocolate, donde se identifican las bases teóricas de estas pruebas y la normatividad que se aplica en su realización. Así mismo, tendrá los fundamentos necesarios para planear una cata, las muestras y el tipo de prueba a realizar.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/3.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/4.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
+        imagen: require('@/assets/curso/portada/5.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-6'],
+        imagen: require('@/assets/curso/portada/6.png'),
       },
     ],
   },
@@ -32,30 +49,35 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Marco normativo del análisis sensorial',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Laboratorio del análisis sensorial',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Panel de evaluación sensorial',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Tipos de pruebas y normas correspondientes',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Muestras',
         desarrolloContenidos: true,
       },
     ],
@@ -101,32 +123,89 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Marco Normativo Análisis Sensorial ',
+      referencia:
+        'Quintana, L., y Jerez, A. (2021). <i>Evaluación integral de la calidad sensorial del cacao</i>. Sello Editorial UNAD.',
+      tipo: 'PDF',
+      link:
+        'https://hemeroteca.unad.edu.co/index.php/book/article/download/4852/4570/16800',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Tipos de pruebas y normas correspondientes ',
+      referencia:
+        'Domínguez, M. (2017).  <i>Guía para la evaluación sensorial de alimentos</i>. Agrosalud.',
+      tipo: 'PDF',
+      link:
+        'https://lac.harvestplus.org/wp-content/uploads/2008/02/Guia-para-la-evaluacion-sensorial-de-alimentos.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Análisis sensorial',
+      significado:
+        'estudio y análisis de las propiedades organolépticas de un producto.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Anosmia',
+      significado:
+        'pérdida del olfato que conlleva a una insensibilidad para percibir los sabores.',
+    },
+    {
+      termino: 'Astringencia',
+      significado:
+        'sabor que produce sensaciones de amargor y sequedad intensa en la boca. ',
+    },
+    {
+      termino: 'contramuestras',
+      significado:
+        'muestra de respaldo, tomada en las mismas condiciones que la muestra principal. ',
+    },
+    {
+      termino: 'Panel sensorial',
+      significado:
+        'grupo de profesionales y técnicos encargados de coordinar y aplicar las pruebas sensoriales a alimentos. ',
+    },
+    {
+      termino: 'Organolépticas',
+      significado:
+        'atributos físicos de un producto o alimento que podemos percibir y describir gracias a los órganos de los sentidos. ',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Camargo, C. (2017). <i>Conformación de un grupo de jueces, expertos en entrenamiento para el funcionamiento de un panel de evaluación sensorial en la UNAD</i>. (Tesis de Grado). UNAD, Bucaramanga.',
+      link:
+        'https://repository.unad.edu.co/bitstream/handle/10596/18598/1095794698.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      referencia:
+        'Chabers, E. (2019) Analysis of sensory properties in foods: A special Issue. <i>Foods</i>, 8(8), 291.',
+      link: 'https://www.mdpi.com/2304-8158/8/8/291/htm',
+    },
+    {
+      referencia:
+        'Curso Superior de Degustación de Vinos. (2007). <i>El análisis sensorial</i>. EEAMendoza. INTA',
+      link:
+        'https://inta.gob.ar/sites/default/files/script-tmp-29__el_anlisis_sensorial.pdf',
+    },
+    {
+      referencia:
+        'Domínguez, M. (2017).  <i>Guía para la evaluación sensorial de alimentos</i>. Agrosalud.',
+      link:
+        'https://lac.harvestplus.org/wp-content/uploads/2008/02/Guia-para-la-evaluacion-sensorial-de-alimentos.pdf',
+    },
+    {
+      referencia:
+        'Drewnowski, A., & Moskowitz, H. (1985). Sensory characteristics of foods: New evaluation techniques. T<i>he American Journal of Clinical Nutrition</i>, 42, 924-931.',
+      link:
+        'https://www.researchgate.net/publication/19101309_Sensory_characteristics_of_foods_New_evaluation_techniques',
+    },
+    {
+      referencia:
+        'Quintana, L., y Jerez, A. (2021). <i>Evaluación integral de la calidad sensorial del cacao</i>. Sello Editorial UNAD.',
+      link:
+        'https://hemeroteca.unad.edu.co/index.php/book/article/download/4852/4570/16800',
     },
   ],
   creditos: {
@@ -210,11 +289,6 @@ export default {
       },
       {
         nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },

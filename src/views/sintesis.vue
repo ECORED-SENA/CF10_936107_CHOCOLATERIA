@@ -3,8 +3,13 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    .row.justify-content-center.align-items-center       
+      .col-lg-10
+        .row.justify-content-center.align-items-center.mb-5           
+          .col-auto.p-0
+            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='')
+          .col.p-0.bgs  
+            p(data-aos="fade-down").mb-0.p-2 A continuación, se presenta la síntesis que recopila los principales elementos abordados para el desarrollo del componente formativo, donde se profundiza acerca del análisis sensorial, desde la normativa y los diferentes procedimientos que esto incluye: 
 
     .row.justify-content-center
       .col-lg-10.mb-5
