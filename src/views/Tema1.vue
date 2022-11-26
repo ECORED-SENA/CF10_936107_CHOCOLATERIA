@@ -23,7 +23,7 @@
 
         .col-md.col-lg-6(data-aos="fade-down")
           h3.yel Normas aplicadas a la cadena productiva del cacao
-          p.mb-4 Tomado y modificada de Nuevas normas o estándares disponibles para las cadenas de cacao y aguacate Hass, Aprobados por ICONTEC y gestionados por Colombia Mide.
+          p.mb-4 Tomado y modificada de nuevas normas o estándares disponibles para las cadenas de cacao y aguacate Hass, aprobados por ICONTEC y gestionados por ColombiaMide.
           
           a.boton.color-acento-botones(href="https://www.youtube.com/watch?time_continue=5&v=FLzlWoO3v0k&feature=emb_logo " target="_blank" type="application/pdf")
             span Ver video
@@ -39,28 +39,28 @@
       .col-lg-3.my-3(data-aos="fade-left")
         .bg3.p-3.text-center.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/9.png', alt='')
-          h5.bwn.mb-4 Humedad del grano.
-          p Medida en porcentaje, su nivel no debe superar el 7,5% para evitar la proliferación de moho y microorganismos indeseables.  
+          h5.bwn.mb-4 Humedad del grano
+          p Medida en porcentaje, su nivel no debe superar el 7.5% para evitar la proliferación de moho y microorganismos indeseables.  
 
 
       .col-lg-3.my-3(data-aos="fade-right")
         .bg3.p-3.text-center.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/10.png', alt='')
-          h5.bwn.mb-4 Índice de fermentación.
+          h5.bwn.mb-4 Índice de fermentación
           p Es la forma de medir la eficacia en el proceso de fermentado del grano luego de la cosecha, se mide en porcentaje. 
 
 
       .col-lg-3.my-3(data-aos="fade-left")
         .bg3.p-3.text-center.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/11.png', alt='')
-          h5.bwn.mb-4 Índice de grano.
+          h5.bwn.mb-4 Índice de grano
           p Se obtiene en gramos y está relacionada con el tamaño del grano, es uno de los siete factores de calidad en el cacao, busca tener granos más grandes por mazorca para obtener un mejor rendimiento en los procesos de cosecha y postcosecha. Los valores son establecidos por Fedecacao.
 
 
       .col-lg-3.my-3(data-aos="fade-right")
         .bg3.p-3.text-center.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/12.png', alt='')
-          h5.bwn.mb-4 Porcentaje de cascarilla.
+          h5.bwn.mb-4 Porcentaje de cascarilla
           p Es un subproducto que se puede aprovechar para ser usado en infusiones, no es ideal tener gran porcentaje de este. Al desarrollar variedades especiales se busca que este porcentaje sea mínimo para mejorar el rendimiento en el procesamiento y obtener mayor cantidad de cacao.
 
     .bg4.mt-5
@@ -126,37 +126,37 @@
     .row.justify-content-center.align-items-start      
       .col-lg-7(data-aos="fade-right")
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta bg6")
-          .row.justify-content-center.align-items-start(titulo="ISO 13299:2016.")
+          .row.justify-content-center.align-items-start(titulo="ISO 13299:2016")
             .col-11
               p Establece la metodología general para establecer el perfil sensorial. 
-          .row.justify-content-center.align-items-start(titulo="ISO/DIS 5492.")
+          .row.justify-content-center.align-items-start(titulo="ISO/DIS 5492")
             .col-11
               p Definiciones y vocabulario del ámbito del análisis sensorial.  
-          .row.justify-content-center.align-items-start(titulo="ISO 5496:2006.")
+          .row.justify-content-center.align-items-start(titulo="ISO 5496:2006")
             .col-11
               p Establece la metodología para la iniciación y formación de los evaluadores en la detección y reconocimiento de olores. 
-          .row.justify-content-center.align-items-start(titulo="ISO 8586:2012.")
+          .row.justify-content-center.align-items-start(titulo="ISO 8586:2012")
             .col-11
               p Directrices generales para la selección, formación y seguimiento de evaluadores seleccionados y evaluadores sensoriales expertos. 
-          .row.justify-content-center.align-items-start(titulo="ISO 13300-1:2006.")
+          .row.justify-content-center.align-items-start(titulo="ISO 13300-1:2006")
             .col-11
               p Es la primera parte de la guía general para el personal de los laboratorios de evaluación sensorial. Enfocado a las responsabilidades del personal. 
-          .row.justify-content-center.align-items-start(titulo="ISO 133300-2:2006.")
+          .row.justify-content-center.align-items-start(titulo="ISO 133300-2:2006")
             .col-11
               p Es la segunda parte de la guía general para el personal de los laboratorios de evaluación sensorial. Enfocado a la selección y formación de directores del jurado. 
-          .row.justify-content-center.align-items-start(titulo="ISO 8589:2007.")
+          .row.justify-content-center.align-items-start(titulo="ISO 8589:2007")
             .col-11
               p Ofrece los lineamientos para la orientación general para el diseño de las salas de análisis. 
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/16.png', alt='')
 
-    p(data-aos="fade-down").mb-5 En la ciencia del análisis sensorial se cuantifican los aspectos como sabor, mediante escalas de intensidad, el olor, el color y las texturas, una forma de estandarizar es dando parámetros específicos en los cuales los catadores puedan ubicar sus percepciones. Para esto se propone inicialmente una clasificación de las pruebas sensoriales en tres grupos, cómo se comparte continuación: 
+    p(data-aos="fade-down").mb-5 En la ciencia del análisis sensorial se cuantifican los aspectos como sabor, mediante escalas de intensidad, el olor, el color y las texturas, una forma de estandarizar es dando parámetros específicos en los cuales los catadores puedan ubicar sus percepciones. Para esto se propone inicialmente una clasificación de las pruebas sensoriales en tres grupos, como se comparte continuación: 
 
     .bg5.my-5
       .pt-5
       .titulo-sexto.color-acento-contenido.mb-4(data-aos="zoom-in-left")
         h5 Tabla 2 
-        span Clasificación de los métodos de prueba en la evaluación sensorial.
+        span Clasificación de los métodos de prueba en la evaluación sensorial
       .row.justify-content-center.align-items-center  
         .col-lg-3.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.png', alt='')
@@ -164,27 +164,27 @@
         .col-lg-9.my-3
           .tabla-a.color-primario.mb-5(data-aos="fade-left") 
             table.table1
-              caption.bgcap Nota. Tomada y adaptada de NTC1252. 
+              caption.bgcap Nota. Tomada de UNAD.
               thead
                 tr.bgth.text-center
                   th Clasificación
-                  th Objetivo de la Prueba
-                  th Pregunta de Interés
-                  th Características de los Panelistas
+                  th Objetivo de la prueba
+                  th Pregunta de interés
+                  th Características de los panelistas
 
               tbody.text-center          
                 tr.bgw 
-                  td.text-bold Discriminatoria.
+                  td.text-bold Discriminatoria
                   td Determinar si dos productos son percibidos de diferente manera por consumidores
                   td ¿Existen diferencias entre los productos?
                   td Seleccionados por la agudeza sensorial, conocimiento de norma, técnicas y con algún entrenamiento. 
                 tr.bgt
-                  td.text-bold Descriptiva. 
+                  td.text-bold Descriptiva 
                   td Determinar la naturaleza de las diferencias sensoriales.
                   td ¿En qué tipos de características específicas difieren los productos?
                   td Seleccionados por la agudeza sensorial y apoyados en normas técnicas y métodos de alto entrenamiento. 
                 tr.bgw
-                  td.text-bold Afectiva. 
+                  td.text-bold Afectiva 
                   td Determinar la aceptabilidad de un producto alimenticio.
                   td <b>Hedónica</b>. ¿Qué productos te gustan más y cuáles son los preferidos?
                   td Seleccionados para evaluar un producto sin tener entrenamiento. 
@@ -273,7 +273,7 @@
               caption.bgcap Nota. Tomada y adaptada de  Domínguez (2017)
               thead
                 tr.bgth.text-center
-                  th Atributo de Textura 
+                  th Atributo de textura 
                   th Escala
                   th Producto
               tbody.text-center          
@@ -326,13 +326,13 @@
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/30.png', alt='')
       .col-lg-8.my-3
-        p(data-aos="fade-down").mb-0 Cada alimento tiene un grupo descriptor de atributos los cuales son los que se buscan medir en las pruebas sensoriales, jueces que hagan la valoración del cacao, (licor de cacao) requieren un entrenamiento específico en los siguientes sabores: los básicos, los sabores adquiridos, es decir aquellos sabores u olores externos que se adhirieron en alguno de los pasos del procesamiento debido a la propiedad higroscópica que posee; y los sabores específicos de cacaos finos, como se presenta a continuación.masticación.
+        p(data-aos="fade-down").mb-0 Cada alimento tiene un grupo descriptor de atributos los cuales son los que se buscan medir en las pruebas sensoriales, jueces que hagan la valoración del cacao, (licor de cacao) requieren un entrenamiento específico en los siguientes sabores: los básicos, los sabores adquiridos, es decir aquellos sabores u olores externos que se adhirieron en alguno de los pasos del procesamiento debido a la propiedad higroscópica que posee; y los sabores específicos de cacaos finos, como se presenta a continuación masticación.
 
     .row.justify-content-center.align-items-center.mb-5.bgw.brad.sha
       .col-lg-7
         .p-4
           h4.bwnt Sabores básicos:  
-          p(data-aos="fade-down").mb-0 son los sabores típicos característicos de cualquier tipo de cacao y son aquellas notas que un experto debe memorizar como referencia para juzgar a todos los tipos de caca, estos son:         
+          p(data-aos="fade-down").mb-0 Son los sabores típicos característicos de cualquier tipo de cacao y son aquellas notas que un experto debe memorizar como referencia para juzgar a todos los tipos de cacao, estos son:         
       .col-lg-5.img-e
         img.img-e(data-aos="zoom-in")(src='@/assets/curso/temas/31.png', alt='') 
 
@@ -344,7 +344,7 @@
               figure
                 img(src="@/assets/curso/temas/32.png", alt="alt")
             .crd_hover_txt--body
-              h3.yel.mb-3.text-center Astringente. 
+              h3.yel.mb-3.text-center Astringente: 
               p.mb-0.text-white Se describe como aquel sabor que produce resequedad en la boca y, posteriormente, un aumento en la salivación; se debe a una alta concentración de polifenoles y a deficiencias en el proceso de fermentación del grano.
 
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -353,7 +353,7 @@
               figure
                 img(src="@/assets/curso/temas/33.png", alt="alt")
             .crd_hover_txt--body
-              h3.yel.mb-3.text-center Ácido.
+              h3.yel.mb-3.text-center Ácido:
               p.mb-0.text-white Son los sabores asociados a los cítricos, como el limón. Produce una sensación en la boca que causa estremecimiento, pues  los sabores ácidos generan una alerta en el sistema nervioso al estar ligados por el inconsciente con sabores de venenos y toxinas.  
 
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -362,14 +362,14 @@
               figure
                 img(src="@/assets/curso/temas/34.png", alt="alt")
             .crd_hover_txt--body
-              h3.yel.mb-3.text-center Amargo. 
+              h3.yel.mb-3.text-center Amargo: 
               p.mb-0.text-white Está asociado a sabores como el café oscuro sin dulce. El cacao puro sin edulcorantes posee un sabor amargo. Se dice que apreciar este sabor como agradable es un gusto adquirido, ya que al igual que el sabor ácido también genera una reacción del sistema nervioso.
 
       .row.justify-content-center.align-items-center.mb-5.bgw.brad.sha
         .col-lg-7
           .p-4
             h4.bwnt Sabores adquiridos:
-            p(data-aos="fade-down").mb-0 son aquellos sabores externos que se adhieren al cacao en cualquiera de sus fases de procesamiento ya sea en la cosecha o en postcosecha: fermentado, secado, tostado e incluso un mal almacenamiento puede causar su contaminación; estos se clasifican en:       
+            p(data-aos="fade-down").mb-0 Son aquellos sabores externos que se adhieren al cacao en cualquiera de sus fases de procesamiento ya sea en la cosecha o en postcosecha: fermentado, secado, tostado e incluso un mal almacenamiento puede causar su contaminación; estos se clasifican en:       
         .col-lg-5.img-e
           img.img-e(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='') 
 
@@ -379,7 +379,7 @@
             .row.justify-content-center.align-items-start
               .col-md-6.mb-4.mb-md-0
                 .pt-5.ps-5.smov
-                  h4.mb-4 Verde/crudo. 
+                  h4.mb-4 Verde/crudo: 
                   p Es el sabor con el que se describe al cacao que no ha cumplido bien el proceso de fermentación o de tostado. Son notas que los expertos deben memorizar en sus entrenamientos, pues son sabores específicos.   
               .col-md-6 
                 img.img-a.img-t(src='@/assets/curso/temas/37.png', alt='')
@@ -408,7 +408,7 @@
       .col-lg-7
         .p-4
           h4.bwnt Sabores específicos: 
-          p(data-aos="fade-down") son los que provienen de un material específico de cacao, es decir, son características deseables que se buscan perpetuar por medio de manejo fitogenético cruzando variedades resistentes con variedades de sabor característico, para obtener el vigor híbrido y altas cualidades sensoriales. Igualmente se debe considerar el cuidadoso proceso de cosecha y postcosecha para no llegar a contaminar los olores y sabores, de ahí la importancia realizar un excelente fermentado, secado y tostado que potencien los sabores propios del material fino.
+          p(data-aos="fade-down") Son los que provienen de un material específico de cacao, es decir, son características deseables que se buscan perpetuar por medio de manejo fitogenético cruzando variedades resistentes con variedades de sabor característico, para obtener el vigor híbrido y altas cualidades sensoriales. Igualmente se debe considerar el cuidadoso proceso de cosecha y postcosecha para no llegar a contaminar los olores y sabores, de ahí la importancia realizar un excelente fermentado, secado y tostado que potencien los sabores propios del material fino.
 
           p(data-aos="fade-down").mb-0 Generalmente aquellos cacaos de sabores y olores finos no son tan productivos en términos de kg/ha  ni tan resistentes a enfermedades y cambios climáticos los cuales los hacen más costosos pero que los grandes procesadores de cacao están dispuestos a pagar por sus características, las cuales corresponden a:       
       .col-lg-5.img-e
@@ -418,28 +418,28 @@
       .col-lg-3.my-3(data-aos="fade-left")
         .bg3.p-3.text-center.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/42.png', alt='')
-          h5.bwn.mb-4 Sabor a cacao.
+          h5.bwn.mb-4 Sabor a cacao:
           p Es el sabor y olor a chocolate, como por ejemplo la manteca de cacao. Se genera por una reacción de la glutamina con la glucosa cuando los granos han sido bien fermentados y tostados.  
 
 
       .col-lg-3.my-3(data-aos="fade-right")
         .bg3.p-3.text-center.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/43.png', alt='')
-          h5.bwn.mb-4 Frutal.
+          h5.bwn.mb-4 Frutal:
           p Evoca los sabores asociados a la fruta madura.
 
 
       .col-lg-3.my-3(data-aos="fade-left")
         .bg3.p-3.text-center.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/44.png', alt='')
-          h5.bwn.mb-4 Nuez.
+          h5.bwn.mb-4 Nuez:
           p Es aquel sabor que se relaciona con los frutos secos como almendras, nueces etc.
 
 
       .col-lg-3.my-3(data-aos="fade-right")
         .bg3.p-3.text-center.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/45.png', alt='')
-          h5.bwn.mb-4 Floral. 
+          h5.bwn.mb-4 Floral: 
           p Es aquel sabor que evoca el aroma de las flores, entre dulce y fresco.
 
     .row.justify-content-center.align-items-center.mb-4              

@@ -34,16 +34,16 @@
             img.img-a.img-t(src='@/assets/curso/temas/61.png', alt='')
 
         .tarjeta.color-acento-contenido.p-3(x="72%" y="55%" numero="1")
-          h5.mb-2 1. Utensilios de cocina. 
-          p.mb-0 Recipientes de acero, ollas etc., en caso de ser necesario el baño maría.     
+          h5.mb-2 1. Utensilios de cocina: 
+          p.mb-0 Recipientes de acero, ollas etc., en caso de ser necesario el baño María.     
         .tarjeta.color-acento-contenido.p-3(x="23%" y="34%" numero="2")
-          h5.mb-2 2. Hornos tostadores. 
+          h5.mb-2 2. Hornos tostadores: 
           p.mb-0 Para el cacao sin procesar se requiere de hornos tostadores, descascarilladoras, estufas de laboratorio, molinos de refinamiento, micrómetro y reómetro, entre otros.  
         .tarjeta.color-acento-contenido.p-3(x="50%" y="14%" numero="3")
-          h5.mb-2 3. Aire acondicionado. 
+          h5.mb-2 3. Aire acondicionado: 
           p.mb-0 Para controlar las temperaturas en los procesos de atemperado.       
         .tarjeta.color-acento-contenido.p-3(x="53%" y="40%" numero="4")
-          h5.mb-2 4. Mesones en mármol. 
+          h5.mb-2 4. Mesones en mármol: 
           p.mb-0 Proceso de templado manual.  
 
     .row.justify-content-center.align-items-center.mb-5           
@@ -64,7 +64,7 @@
         .col-lg-7
           p(data-aos="fade-down") También debe contar con un área separada para que los jueces puedan discutir los resultados y un área tipo oficina donde se realice la planeación del trabajo y todo el procesamiento de datos de los análisis. Es importante considerar tener espacio de almacenamiento de muestras y contramuestras (muestras de respaldo) y almacenamiento de enseres de aseo separados para evitar contaminación por olores o sustancias con las muestras, entre otros. 
 
-          p(data-aos="fade-down") Un ejemplo básico de los planos de un laboratorio sería el siguiente. 
+          p(data-aos="fade-down") Un ejemplo básico de los planos de un laboratorio sería el siguiente:
                          
     .bg17
       h4.bwn.text-center.pt-5(data-aos="fade-down") Planos de un laboratorio 
@@ -96,7 +96,7 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/68.png', alt='')                   
         .col-lg-8.my-3
           .bg13.p-4.mb-4
-            p(data-aos="fade-down").mb-0 Según la Norma GTC226 - 2012 #[b.bwn el área de análisis de muestras debe ubicarse de tal forma que los expertos no entren en contacto con ruidos, olores, interferencias con otros jueces o experto,] con el fin de evitar cualquier percepción de otros que contamine el proceso de juzgamiento. Incluso cada cabina debe tener unas luces que bloquean el color, permitiendo al juez apreciar el color y brillo del alimento mas no del entorno.         
+            p(data-aos="fade-down").mb-0 Según la Norma GTC226 - 2012 #[b.bwn el área de análisis de muestras debe ubicarse de tal forma que los expertos no entren en contacto con ruidos, olores, interferencias con otros jueces o experto,] con el fin de evitar cualquier percepción de otros que contamine el proceso de juzgamiento. Incluso cada cabina debe tener unas luces que bloquean el color, permitiendo al juez apreciar el color y brillo del alimento más no del entorno.         
           p(data-aos="fade-down") Todas las instalaciones e implementos deben ser cómodos y estar en buen estado, recordemos que se trata de crear un ambiente lo más neutro posible para que ningún aspecto interfiera con la apreciación de los órganos de los sentidos. También debe tener un lavamanos con el fin de facilitar el enjuague de la boca de muestra a muestra. Sobra decir, que las condiciones de limpieza de estos lugares deben ser excelentes y según la normatividad. 
 
            

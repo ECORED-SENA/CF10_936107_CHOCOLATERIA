@@ -156,7 +156,7 @@ export default {
         'sabor que produce sensaciones de amargor y sequedad intensa en la boca. ',
     },
     {
-      termino: 'contramuestras',
+      termino: 'Contramuestras',
       significado:
         'muestra de respaldo, tomada en las mismas condiciones que la muestra principal. ',
     },
@@ -224,24 +224,25 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'Diana Carolina Pachón Meneses',
+        cargo: 'Experta temática',
+        centro:
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'Leydy Jhuliana Jaramillo Mejía',
+        cargo: 'Diseñador instruccional',
+        centro: 'Regional Distrito Capital- Centro de Gestión Industrial',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Asesora metodológica y pedagógica',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
     ],
     desarrolloProducto: [
@@ -252,25 +253,36 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuly Andrea Rey Quiñonez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Edward Leonardo Pico Cabra',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Eugenia Mejía López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

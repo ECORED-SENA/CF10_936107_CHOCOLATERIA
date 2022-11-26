@@ -19,7 +19,7 @@
       .col-lg-4.my-3(data-aos="fade-left")
         .bg3.p-4.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/77.svg', alt='')
-          h5.bwn.mb-4.text-center Prueba de pares o pareada.
+          h5.bwn.mb-4.text-center Prueba de pares o pareada:
           p Se presentan las muestras por pares y su objetivo es comparar e identificar características particulares mediante preguntas concretas. Por ejemplo: ¿Cuál es el más amargo? ¿Cuál es el más salado? ¿Cuál es el más dulce?.
 
           h5 Normas: NTC2680 de 2013, ISO 6658:2005 y GTC 165 de 2014.  
@@ -28,7 +28,7 @@
       .col-lg-4.my-3(data-aos="fade-right")
         .bg3.p-4.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/78.svg', alt='')
-          h5.bwn.mb-4.text-center Prueba dúo-trío.
+          h5.bwn.mb-4.text-center Prueba dúo-trío:
           p Su objetivo es discriminar las diferencias sutiles o tenues. En esta prueba se analizan tres muestras: A, B y R, pero R es igual, a una de las otras muestras, es decir, es exactamente el mismo alimento que cualquiera de las muestras rotuladas inicialmente (A o B) y se le pide al experto o juez que identifique cuál es la muestra diferente a R.  
 
           h5 Norma: NTC 3883 2006.
@@ -37,7 +37,7 @@
       .col-lg-4.my-3(data-aos="fade-left")
         .bg3.p-4.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/79.svg', alt='')
-          h5.bwn.mb-4.text-center Prueba triangular.
+          h5.bwn.mb-4.text-center Prueba triangular:
           p Se presentan al juez tres muestras rotuladas (A, B y C) de las cuales dos son iguales y una distinta.  La diferencia con la prueba anterior es que, en esta, no se establece una muestra base o referencia. El juez debe identificar cuáles son los dos iguales y cuál es la diferente. 
 
           h5 Norma: NTC2681.

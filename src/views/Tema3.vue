@@ -29,19 +29,19 @@
             img.img-a.img-t(src='@/assets/curso/temas/71.png', alt='')
 
         .tarjeta.color-acento-contenido.p-3(x="83%" y="45%" numero="1")
-          h5.mb-2 1. Muestras.
+          h5.mb-2 1. Muestras:
           p.mb-0 Muestras marcadas o rotuladas claramente y que correspondan a la información de los formatos.          
         .tarjeta.color-acento-contenido.p-3(x="62%" y="20%" numero="2")
-          h5.mb-2 2. Cubiertos. 
+          h5.mb-2 2. Cubiertos: 
           p.mb-0 Para que el juez pueda manipular la muestra.   
         .tarjeta.color-acento-contenido.p-3(x="60%" y="65%" numero="3")
-          h5.mb-2 3. Formato registro.
+          h5.mb-2 3. Formato registro:
           p.mb-0 Formato de registro de la evaluación y esfero o lápiz.   
         .tarjeta.color-acento-contenido.p-3(x="78%" y="25%" numero="4")
-          h5.mb-2 4. Vaso con agua. 
+          h5.mb-2 4. Vaso con agua: 
           p.mb-0 Un vaso con agua para enjuagar la boca de muestra a muestra.  
 
-    p(data-aos="fade-down").mb-5 De igual manera, se debe detallar el panel sensorial y cómo interviene cada uno de los actores que hacen parte de este proceso, para ello se invita a observar el siguiente organigrama. 
+    p(data-aos="fade-down").mb-5 De igual manera, se debe detallar el panel sensorial y cómo interviene cada uno de los actores que hacen parte de este proceso, para ello se invita a observar el siguiente organigrama:
     .bg20
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-12.bg19.d-none.d-lg-block
@@ -55,7 +55,7 @@
             .col-auto
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='')
             .col  
-              p(data-aos="fade-down").mb-4 Cada empresa tiene sus protocolos a la hora de seleccionar al equipo o panel sensorial. Algunas consideraciones especiales para evitar en un posible juez son personas: 
+              p(data-aos="fade-down").mb-4 Cada empresa tiene sus protocolos a la hora de seleccionar al equipo o panel sensorial. Algunas consideraciones especiales para evitar en un posible juez, son personas: 
             .col-9
               .list(data-aos="fade-down").mb-4
                 .list__item
@@ -80,7 +80,7 @@
                   .list__item__icon
                     img(src='@/assets/curso/temas/v4.svg', alt='')
                 .list__txt
-                  p.mb-0 En edad avanzada entre otras.                                                  
+                  p.mb-0 En edad avanzada, entre otras.                                                  
         .col-lg-5
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/75.svg', alt='')
 
