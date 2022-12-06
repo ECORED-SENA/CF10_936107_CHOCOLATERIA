@@ -119,7 +119,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/rWM-mxrlQ6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p(data-aos="fade-down").mb-5 Para considerar las normas aplicadas a la cadena productiva del cacao, se hace necesario mencionar como desde el Icontec también se puede acceder a la normatividad específica para el ámbito del análisis sensorial, a continuación, se enlistan las normas ISO relacionadas con este tema:  
 
