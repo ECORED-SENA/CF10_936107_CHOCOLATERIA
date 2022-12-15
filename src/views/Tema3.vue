@@ -13,10 +13,10 @@
         .col-lg-5.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/69.png', alt='')                  
         .col-lg-7.my-3
-          p(data-aos="fade-down") Generalmente un juez se especializa en un determinado grupo de alimentos y entrena su paladar en torno a este, por ejemplo, el chocolate, los vinos, los quesos etc. A este tipo de jueces se les denomina Jueces Experimentados o jueces expertos. Contrario a cuando se solicitan consumidores normales para establecer preferencias entre alimentos, a las personas no entrenadas que participan en estas pruebas se les denomina jueces inexpertos o subjetivos. 
+          p(data-aos="fade-down") Generalmente un juez se especializa en un determinado grupo de alimentos y entrena su paladar en torno a este, por ejemplo, el chocolate, los vinos, los quesos, etc. A este tipo de jueces se les denomina Jueces Experimentados o jueces expertos. Contrario a cuando se solicitan consumidores normales para establecer preferencias entre alimentos, a las personas no entrenadas que participan en estas pruebas se les denomina jueces inexpertos o subjetivos. 
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-10.my-3.bg18.p-4
-              p(data-aos="fade-down").mb-0 Estos jueces expertos están organizados bajo el líder del panel, quien es el encargado de establecer: los protocolos, técnica sensorial que se implementará, alimentos a analizar, fechas, formatos, muestras, etc. Igualmente, debe dirigir a los auxiliares del laboratorio, quienes son los que realizan las labores operativas de alistamiento y preparación de muestras; alistamiento de cabinas con todo lo necesario para el proceso de juzgamiento o cata entre otros. 
+              p(data-aos="fade-down").mb-0 Estos jueces expertos están organizados bajo el líder del panel, quien es el encargado de establecer: los protocolos, técnica sensorial que se implementará, alimentos a analizar, fechas, formatos, muestras, etc. Igualmente, debe dirigir a los auxiliares del laboratorio, quienes son los que realizan las labores operativas de alistamiento y preparación de muestras; alistamiento de cabinas con todo lo necesario para el proceso de juzgamiento o cata, entre otros. 
             .col-lg-2.p-0.my-3.d-none.d-lg-block
               img.img-l.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/70.svg', alt='')                  
 

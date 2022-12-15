@@ -35,7 +35,7 @@
 
         .tarjeta.color-acento-contenido.p-3(x="72%" y="55%" numero="1")
           h5.mb-2 1. Utensilios de cocina: 
-          p.mb-0 Recipientes de acero, ollas etc., en caso de ser necesario el baño María.     
+          p.mb-0 Recipientes de acero, ollas, etc., en caso de ser necesario el baño María.     
         .tarjeta.color-acento-contenido.p-3(x="23%" y="34%" numero="2")
           h5.mb-2 2. Hornos tostadores: 
           p.mb-0 Para el cacao sin procesar se requiere de hornos tostadores, descascarilladoras, estufas de laboratorio, molinos de refinamiento, micrómetro y reómetro, entre otros.  

@@ -78,33 +78,36 @@
               caption.bgcap Nota. Tomada y adaptada de NTC1252. 
               thead
                 tr.bgth.text-center
-                  th(colspan='2') Indicador
-                  th(colspan='2') Clasificación del cacao en grano
+                  th Indicador
+                  th(colspan='3') Clasificación del cacao en grano
               tbody.text-center          
                 tr
-                  td.bgt(rowspan='3') Humedad del grano (%) <br>Índice de fermentación (% min) 
+                  td.bgt
                   td.bgrose.text-bold Corriente
                   td.bgrose.text-bold Estándar
                   td.bgrose.text-bold Premium
                 tr.bgw
+                  td.bgt Humedad del grano (%)
                   td 7,5
                   td 7,5
                   td 7,0
                 tr.bgw
+                  td.bgt Índice de fermentación (% min)               
                   td 55
                   td 65
                   td 70
                 tr
-                  td.bgt Índice de grano (gramos) 
+                  td.bgt
                   td.bgrose.text-bold Bajo
                   td.bgrose.text-bold Medio
                   td.bgrose.text-bold Alto
                 tr
-                  td.bgt(rowspan='2') Porcentaje de cascarilla %
+                  td.bgt Índice de grano (gramos) 
                   td.bgw ≤1,4
                   td.bgw ≤1,6
                   td.bgw ≥1,7
                 tr.bgw
+                  td.bgt Porcentaje de cascarilla %                
                   td 12
                   td 13
                   td 14
@@ -433,7 +436,7 @@
         .bg3.p-3.text-center.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/44.png', alt='')
           h5.bwn.mb-4 Nuez:
-          p Es aquel sabor que se relaciona con los frutos secos como almendras, nueces etc.
+          p Es aquel sabor que se relaciona con los frutos secos como almendras, nueces, etc.
 
 
       .col-lg-3.my-3(data-aos="fade-right")
